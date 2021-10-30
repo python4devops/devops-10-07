@@ -1,7 +1,8 @@
 # devops-10-07
 best practice repo
 ## create a scaffeld
-
+To get started do this : 
+'source !/.venv/bin/activate'
 * 'requirements.txt' packages
 * 'Makefile' Cookbook runs commands
 * 'hello.py' : Code
